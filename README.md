@@ -20,8 +20,3 @@ The GPX/TCX files can be processed with the sample code found in [read_files.py]
 ### Projects for viewing the datasets
 - [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - This Python library aids in extracting features from sports activity files.
 - [sport-activities-features-gui](https://github.com/firefly-cpp/sport-activities-features-gui) - PyQt6 based GUI application utilizes the sports-activities-features library for easy representation.
-
-### Other solutions for viewing the datasets
-- [Strava](https://www.strava.com/): While it's a proprietary software, Strava is a robust platform with extensive support for GPX/TCX files.
-- [GPXSee](https://www.gpxsee.org/index.html): A free and open-source software to view GPX files.
-- [MyTourbook](https://mytourbook.sourceforge.io/mytourbook/index.php): Another open-source solution to view, edit, and analyze GPX files.
