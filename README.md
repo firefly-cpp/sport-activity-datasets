@@ -1,6 +1,6 @@
 # A collection of sport activity datasets for data analysis and data mining
 
-This comprehensive list compiles collections of sports activity datasets, specifically consisting of GPX/TCX files, for use in data analysis and mining. The current collections primarily focus on activities such as cycling, running, and triathlons.
+This comprehensive list compiles collections of sports activity datasets, specifically consisting of GPX/TCX files, for use in data analysis and mining. The current collections primarily focus on activities such as cycling (also MTB), running, and triathlons.
 
 ## Cycling/Running/Triathlon datasets
 
