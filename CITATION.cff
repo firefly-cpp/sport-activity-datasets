@@ -1,0 +1,11 @@
+authors:
+- family-names: Iztok Fister Jr.
+cff-version: 1.2.0
+date-released: '2023-12-30'
+doi: 10.5281/zenodo.10444711
+license:
+- cc-by-4.0
+repository-code: https://github.com/firefly-cpp/sports-activity-dataset-collections/tree/1.0
+title: 'firefly-cpp/sports-activity-dataset-collections: 1.0'
+type: software
+version: '1.0'
