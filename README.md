@@ -22,3 +22,4 @@ The GPX/TCX files can be processed with the sample code found in [read_files.py]
 ### Projects for viewing the datasets
 - [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - This Python library aids in extracting features from sports activity files.
 - [sport-activities-features-gui](https://github.com/firefly-cpp/sport-activities-features-gui) - PyQt6 based GUI application utilizes the sports-activities-features library for easy representation.
+- [TCXReader.jl](https://github.com/firefly-cpp/TCXReader.jl) -  Julia package designed for parsing TCX files.
